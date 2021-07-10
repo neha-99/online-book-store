@@ -1,0 +1,60 @@
+const data = {
+    products: [
+      {
+        id: 1,
+        name:'The Alchemist ',
+        image: './images/fic1.png',
+        category: 'fiction',
+        label:'Bestseller',
+        price:180,
+        featured: true,
+        },
+        {
+          id: 2,
+          name:'The Stationery Shop of Tehran',
+          image: './images/fic2.png',
+          category: 'fiction',
+          label:'',
+          price:235,
+          featured: false,
+          },
+        {
+        id: 3,
+        name:'Harry Potter and the Philosophers Stone ',
+        image: './images/fic3.png',
+        category: 'fiction',
+        label:'New',
+        price:199,
+        featured: false,
+        },
+        {
+        id: 4,
+        name:'Harry Potter and the Chamber of Secrets',
+        image: './images/fic4.png',
+        category: 'fiction',
+        label:'',
+        price:372,
+        featured: false,
+        },
+        {
+            id: 5,
+            name:'How to Win Friends and Influence People',
+            image: './images/nfic.png',
+            category: 'nonfiction',
+            label:'',
+            price:150,
+            featured: false,
+        },
+        
+        {
+            id: 6,
+            name:'Harry Potter and the Prisoner of Azkaban ',
+            image: './images/fic4.png',
+            category: 'nonfiction',
+            label:'',
+            price:372,
+            featured: false,
+        },
+    ],
+  };
+  export default data;

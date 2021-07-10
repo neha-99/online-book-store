@@ -1,0 +1,76 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #0f0f0f;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    color:rgba(20, 11, 3, 0.644);
+    background-color:#ffe134;
+   
+}
+.img{
+    max-height: 25rem;
+}
+.container1 {
+    columns: 2 auto;
+  }
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#ffffff;
+}
+
+.navbar-dark {
+    background-color: #0f0f0f;
+}
+button.add {
+    background-color: #40c0f0;
+    width: 1.5rem;
+  }
+  button.remove {
+    background-color: #f04040;
+    width: 1.5rem;
+  }
+  button.badge {
+    background-color: #f04040;
+    border: none;
+    color: #ffffff;
+    width: 1.5rem;
+  }
+  
+  
+  .text-right {
+    text-align: right;
+  }
+ 
+  button {
+    font-size: 0.8rem;
+    padding: 0.2rem;
+    margin: 0.1rem;
+    border-radius: 0.5rem;
+    border: 0.1rem #404040 solid;
+    background-color: #f0c040;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .row {
+    
+    justify-content: space-between;
+  }
+  
